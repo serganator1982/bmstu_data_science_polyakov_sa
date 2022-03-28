@@ -1,0 +1,2 @@
+# bmstu_data_science_polyakov_sa
+Graduate qualification work
