@@ -13,6 +13,12 @@ Graduate qualification work
 
 Кто поддерживает и поддерживает проект Поляков Сергей Александрович
 
+all.xlsx - сведённые датасеты.
+NewMain4.ipynb - тетрадь Jupiter.
+app.ipynb - тетрадь Jupiter.
+app-26.py - консольное приложение Python.
+
+
 Project Topic: Predicting the final properties of new materials (composite materials).
 
 Analytical part 1.1. Formulation of the problem. In this section, a semantic description of the problem of data analysis being solved is given in text form. The characteristics of the dataset are also given - the number of input and output variables (factors), the sample size, the characteristics of the sample in terms of its features (outliers, omissions, etc.). 1.2. Description of the methods used This section provides a brief description of the methods (no more than 1 page for each) that are supposed to be used to solve the problem. It is necessary to pay special attention to the advantages, disadvantages and areas of application of each of the methods. In addition, it is desirable to draw up a final comparative table indicating, among other things, a priori prerequisites for the performance of each method. 1.3. Exploratory Data Analysis This section provides a brief description of the exploratory data analysis methods used for initial analysis.
@@ -22,3 +28,8 @@ Objective It consists in solving problems of computer simulation of the physical
 Where users can get help with your project serganator@list.ru
 
 Who supports and maintains the project Polyakov Sergey Alexandrovich
+
+all.xlsx - combined datasets.
+NewMain4.ipynb - Jupiter notebook.
+app.ipynb - Jupiter notebook.
+app-26.py - Python console application.
